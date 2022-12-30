@@ -37,7 +37,7 @@
     "@babel/register": "^7.0.0",
     "chai": "^4.2.0",
     "chai-http": "^4.2.1",
-    "mocha": "^6.0.2",
+    "mocha": "^10.2.0",
     "nodemon": "^1.19.0"
   }
 }
